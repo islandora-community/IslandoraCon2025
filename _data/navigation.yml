@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "2025"
-    url: https://2025.islandora.ca/
   - title: "Sponsorship"
     url: /sponsorship/
   - title: "Travel & Accommodations"
@@ -10,3 +8,5 @@ main:
     url: /outings/
   - title: "Program"
     url: /program/
+  - title: "Registration"
+    url: /registration/
