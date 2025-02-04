@@ -7,7 +7,7 @@ header:
   actions:
     - label: "See the schedule for IslandoraCon" 
       url: "https://2025.islandora.ca/program/"
-  caption: "Whpq, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
+  caption: "Waggenersd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
 
