@@ -14,9 +14,9 @@ header:
 ## Registration Information
 
 | In-person Early-bird / Islandora member rate | $395 |
-| -------------------------------------------- |------|
-| In-person regular rate | $450 |
+|----------------------------------------------|------|
+| In-person regular rate                       | $450 |
 | -------------------------------------------- | ---- |
-| Online Early-bird / Islandora member rate | $175 |
+| Online Early-bird / Islandora member rate    | $175 |
 | -------------------------------------------- | ---- |
-| Online regular rate | $225 |
+| Online regular rate                          | $225 |
