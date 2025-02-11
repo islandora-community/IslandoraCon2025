@@ -59,7 +59,7 @@ Airport Services from [Harry Reid International Airport](https://www.harryreidai
 Public Transportation
 
 * Buses: find information at the [Regional Transportation Commission of Southern Nevada (RTC) website](https://www.rtcsnv.com/ways-to-travel/how-to-ride/)
-* Unfortunately, there is not a bus route between the suggested hotels and Lied Library.
+* Unfortunately, there is no bus route between the suggested hotels and Lied Library.
 
 
 Driving

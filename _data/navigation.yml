@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "CFP"
+    url: /cfp/
+  - title: "Registration"
+    url: /registration/
   - title: "Sponsorship"
     url: /sponsorship/
   - title: "Travel & Accommodations"
     url: /travelaccommodations/
-  - title: "Outings & Sightseeing"
-    url: /outings/
-  - title: "Program"
-    url: /program/
-  - title: "Registration"
-    url: /registration/
+ # - title: "Outings & Sightseeing"
+ #   url: /outings/
+ # - title: "Program"
+ #   url: /program/
