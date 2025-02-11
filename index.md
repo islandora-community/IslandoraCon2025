@@ -5,17 +5,21 @@ header:
   overlay_image: "/assets/images/Vegas_Skyline_Day.jpg"
   overlay_filter: 0.25
   actions:
-    - label: "See the schedule for IslandoraCon" 
-      url: "https://2025.islandora.ca/program/"
+    - label: "See the Call for Session Proposals" 
+      url: "/cfp/"
   caption: "Waggenersd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
 
 ## IslandoraCon 2025 and the Islandora DrupalCamp
 
-IslandoraCon 2025...
+IslandoraCon 2025 will take place July 14-17, 2025 at the University of Nevada, Las Vegas Lied Library.
 
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
+
+## All in on Islandora
+
+All in on Islandora is our theme for this conference.
 
 ### Conference Committee
 

@@ -1,13 +1,11 @@
 ---
 permalink: /cfp/
 layout: splash
-title: "Call For Proposals"
+title: "IslandoraCon 2025 Call For Proposals"
 header:
-overlay_image: "/assets/images/Vegas_Skyline_Day.jpg"
-overlay_filter: 0.25
-actions:
-- label: "Call For Proposals"
-url: "/cfp/"
+  overlay_image: "/assets/images/Vegas_Skyline_Day.jpg"
+  overlay_filter: 0.25
+  actions:
 caption: "Waggenersd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
