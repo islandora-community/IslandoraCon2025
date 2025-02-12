@@ -12,45 +12,130 @@ header:
 
 ---
 
-## Outings & Sightseeing in Scarborough
+## Things to do in Las Vegas
 
-Scarborough has many beautiful parks and places to explore! Check out [Destination Toronto](https://www.destinationtoronto.com/neighbourhoods/scarborough/), [Visit Scarborough](https://www.visitscarborough.com/), and our recommendations below to create your own adventure!
+The best way to get around Las Vegas is by car, either driving, using a
+rideshare service, or taxi. There is also a bus system that goes
+throughout the Las Vegas Valley operated by the [RTC of Southern
+Nevada](https://www.rtcsnv.com/) but it is not very direct
+and will add significant time to your travel.
 
-Whether you prefer exploring [In Nature](#In-Nature) or [Indoors](#Indoors), there's lots to explore and do! And if your hungry, you're in luck! Scarborough has lots of [Restaurants](#Restaurants) to try!
+UNLV is located right next to the Las Vegas Strip. There are many
+[exciting things to do on the
+Strip](https://www.visitlasvegas.com/las-vegas-strip/), but
+here are some of our favorite areas to explore around Vegas that are off
+the Strip:
 
-For information on how to get around Scarborough and Toronto, check out our [Travel & Accommodations page](https://2023.islandora.ca/travelaccommodations/#Getting-Around)!
+[Downtown
+Vegas](https://www.google.com/maps/dir/Lied+Library,+Las+Vegas,+NV/Downtown,+Las+Vegas,+NV/@36.1382619,-115.1891049,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x80c8c5aa88bfbfd1:0x6b36f9bf8527a509!2m2!1d-115.1423505!2d36.1071839!1m5!1m1!1s0x80c8c373a778174d:0xfb08722262eae752!2m2!1d-115.1406108!2d36.1692059!3e0?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D)
+(\~5 miles north of UNLV), very walkable neighborhood
 
-### <a name="In-Nature"/> In Nature
+-   Includes the famous [Fremont Street
+    Experience](https://vegasexperience.com/) which is
+    popular with tourists and includes nightly live music.
 
-Scarborough Bluffs
-* The [Scarborough Bluffs](https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/scarborough-bluffs/) are a collection of 11 parks across 15km and include amazing views of the bluffs and Lake Ontario, and offer beaches, gardens, trails, and much more to experience. 
+-   Further away from the Fremont Street Experience is Fremont Street
+    East with several local bars, restaurants, coffee shops, and
+    businesses including the [Downtown Container
+    Park](https://downtowncontainerpark.com/) ([with the
+    daily Mantis
+    show!](https://downtowncontainerpark.com/listing/the-mantis/)),
+    [Fergusons
+    Downtown](https://www.fergusonsdowntown.com/)
 
-Toronto Zoo
-* The [Toronto Zoo](https://www.torontozoo.com/) is right around the corner--only a 10 minute drive from UTSC (30 minutes by bus). Pop in the view incredible animals and learn about their conservation efforts.
+-   Visit the [Mob Museum](https://themobmuseum.org/) to
+    learn about the history of organized crime and law enforcement. The
+    Mob Museum also has its own
+    [speakeasy](https://themobmuseum.org/exhibit/the-speakeasy/).
 
-Rouge National Urban Park
-* The [Rouge National Urban Park](https://parks.canada.ca/pn-np/on/rouge) is the largest urban park in North America. With free guided walks and a variety of trails, there's something for everyone.
+-   [Neon Museum](https://neonmuseum.org/your-visit/) -
+    see iconic neon signs from Las Vegas history. Guided tours are
+    offered during the day and at night.
 
-### <a name="Indoors"/> Indoors
+-   There is also a free shuttle ([Downtown
+    Loop](https://www.lasvegasnevada.gov/Residents/Parking-Transportation/Downtown-Loop))
+    that services several attractions in downtown Vegas. The shuttle
+    runs Sunday through Thursday from 11am-6pm and Friday and Saturday
+    from 3-10pm.
 
-Scarborough Museum
-* The [Scarborough Museum](https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/) is a vibrant community you can explore to learn about its history.
+[Arts District](https://dtlvarts.com/) (\~5 miles north of
+UNLV), very walkable neighborhood
 
-Ontario Science Centre
-* The [Ontario Science Centre](https://www.ontariosciencecentre.ca/) is filled with activities and exhibits to satiate your curiosity.
+-   Includes many great coffee shops, bars and restaurants, vintage
+    shops, art galleries, and much more!
 
-## <a name="Restaurants"/> Restaurants 
-As a part of the Greater Toronto Area, you can expect to find plenty of delicious and unique food options! To get started satifying your cravings and expanding your palette, check out [NARCITY Toronto](https://www.narcity.com/toronto/the-best-restaurants-in-scarborough-that-local-foodies-are-completely-in-love-with) for what the locals love, [Toronto Life](https://torontolife.com/food/10-of-the-best-restaurants-in-scarborough-for-takeout-and-delivery/) for takeout and delivery options, [Taste Toronto](https://www.tastetoronto.com/guides/the-best-restaurants-in-scarborough) for a thorough list of the 50 best restaurants in Scarborough, [Noms Magazine](https://nomsmagazine.com/best-scarborough-restaurants/) for a selective top 12 list, or below for our personal recommendations!
+-   Visit the [Burlesque Hall of
+    Fame](https://burlesquehall.com/), the only museum in
+    the world dedicated the history and art of burlesque
 
-### Our Favourites
+[Boulder
+City](https://www.visitbouldercity.com/things-to-do/) (\~24
+miles east of UNLV), charming small town near Lake Mead and Hoover Dam
+that is a quick day trip away from Las Vegas
 
-* [Makkal Chon](https://www.ubereats.com/ca/store/makkal-chon/3KNotqWzRhikYiR_e6G2yw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google)
-* [Nakamori](https://nakamori.ca/)
-* [Atithi](http://atithipureveg.com/)
-* [B Boyz](https://bboyz.ca/)
-* [Roti Hut](https://www.therotihut.com/)
-* [Mona's Roti](https://monasroti.com/)
+-   [Main
+    Street](https://www.visitbouldercity.com/articles/post/things-to-do-on-main-street-in-boulder-city/)
+    Boulder City is home to several restaurants, cafes, antique shops,
+    and more! There are several parks around Boulder City including
+    Hemenway Valley Park where you can often see groups of [Bighorn
+    Sheep](https://wildlife.foothillsclusters.com/a-herd-of-bighorn-sheep)!
 
-### On Campus and Near Campus Options
-[Check out what's open across campus here](https://www.utsc.utoronto.ca/programs/utscfood/), or get a walk in by checking out nearby options:
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5760.7276674315635!2d-79.19048860506352!3d43.78606286647889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1srestaurants!5e0!3m2!1sen!2sca!4v1678476270269!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Other fun places to visit:
+
+-   [Meow Wolf Omega Mart and Area
+    15](https://meowwolf.com/visit/las-vegas?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TZfsgoCGxBg4zopQyXbyV4xGsP1aQ2MbeF_kG-YK82T24Rakh3bfyhoCA8AQAvD_BwE&gclsrc=aw.ds)
+    (\~5 miles north of UNLV)
+
+    -   An arts and entertainment company that creates immersive,
+        interactive art installations
+
+    -   Tickets are required but available for purchase online
+
+-   [TopGolf](https://topgolf.com/us/las-vegas/plan-a-visit/)
+    (near UNLV) and [AtomicGolf](https://atomicgolf.com/)
+    (\~4 miles north of UNLV next to the Stratosphere)
+
+-   [Las Vegas Pinball Hall of
+    Fame](https://www.pinballmuseum.org/) (25,000 square
+    feet of pinball machines!)
+
+**Hiking/Outdoor Activities**
+
+[Red Rock Canyon](https://www.redrockcanyonlv.org/) (\~25
+miles west of UNLV)
+
+-   This national park includes a one-way 13 mile scenic drive, hiking
+    trails, geology, plants and wildlife
+
+[Mt Charleston](https://www.gomtcharleston.com/) (\~45
+miles from UNLV)
+
+-   Looking to escape the heat of Las Vegas? Mt. Charleston is about a
+    1-hour drive northwest of Las Vegas. There are plenty of [hiking
+    trails](https://www.gomtcharleston.com/hikes-trails/),
+    [large grass picnic
+    areas](https://www.gomtcharleston.com/lee-meadows/),
+    and chances are high you will see at least one wild horse!
+
+[Hoover Dam](https://www.usbr.gov/lc/hooverdam/) and
+[Lake Mead Recreation
+Area](https://www.nps.gov/lake/index.htm)
+
+-   Walk around the dam (free) or purchase tickets to tour the inside
+
+-   Lake Mead Recreation Area has a long scenic drive, hiking trails,
+    boating/kayaking, and much more. Hot in the summer, but if you can
+    arrive early enough in the day, it is a very enjoyable place to
+    visit.
+
+Local arrangement contacts can provide additional information,
+recommendations, and answer any questions about visiting Las Vegas:
+
+-   [Sarah Jones](mailto:sarah.jones1@unlv.edu)
+
+-   [Cory Lampert](mailto:cory.lampert@unlv.edu)
+
+-   [Tammi Kim](mailto:tammi.kim@unlv.edu)
+
+-   [Manish Kumar](mailto:manish.kumar@unlv.edu)
+    
