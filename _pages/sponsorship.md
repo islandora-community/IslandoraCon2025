@@ -38,4 +38,4 @@ If you would like to be a sponsor for this year's IslandoraCon, take a look at t
 * Shared slide provided on mobile display panel
  
 ### Event Sponsorship
-Sponsorship is also available for Cocktail Night, the Pizza Party, the Conference Dinner, and coffee breaks. Prominent signage and an announcement at the event will showcase event sponsors. All sponsorships will be listed in the onsite program agenda next to the sponsored event. Additional details can be provided to those potential sponsors interested in this option.
+Sponsorship is also available for coffee breaks and other conference events TBD. Prominent signage and an announcement at the event will showcase event sponsors. All sponsorships will be listed in the onsite program agenda next to the sponsored event. Additional details can be provided to those potential sponsors interested in this option.
