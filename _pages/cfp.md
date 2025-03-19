@@ -11,7 +11,7 @@ caption: "Waggenersd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/
 ---
 ## IslandoraCon 2025 Call For Proposals
 
-On behalf of the Islandora Foundation, we invite submission of proposals for IslandoraCon 2025, taking place July 14-17, 2025 in Las Vegas, Nevada on the campus of the University of Nevada, Las Vegas, with options to present and attend online.
+On behalf of the Islandora Foundation, we invite submission of proposals for IslandoraCon 2025, taking place July 14-17, 2025, online.
 
 The theme of IslandoraCon 2025 is: All in on Islandora.
 
