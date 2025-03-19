@@ -1,5 +1,4 @@
 ---
-permalink: /travelaccommodations/
 layout: splash
 title: "Welcome!"
 header:
