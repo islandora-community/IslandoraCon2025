@@ -11,12 +11,9 @@ header:
   caption: "Waggenersd, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons"
 
 ---
-## Registration Information
+## Registration Information (Coming Soon)
 
-| In-person Early-bird / Islandora member rate | $395 |
-|----------------------------------------------|------|
-| In-person regular rate                       | $450 |
 | -------------------------------------------- | ---- |
-| Online Early-bird / Islandora member rate    | $175 |
+| Online Early-bird / Islandora member rate    | TBD |
 | -------------------------------------------- | ---- |
-| Online regular rate                          | $225 |
+| Online regular rate                          | TBD |
