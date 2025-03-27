@@ -6,9 +6,9 @@ main:
     url: /registration/
   - title: "Sponsorship"
     url: /sponsorship/
+  - title: "Program"
+    url: /program/
  # - title: "Travel & Accommodations"
  #   url: /travelaccommodations/
  # - title: "Outings & Sightseeing"
  #   url: /outings/
- # - title: "Program"
- #   url: /program/
