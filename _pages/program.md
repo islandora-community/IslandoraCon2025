@@ -81,8 +81,3 @@ header:
 ### Day 4: Hackathon
 - Plenary: Islandora Annual General Meeting
 - Documentation Sprint
-
-## Schedule
-
-## Session Descriptions
-
