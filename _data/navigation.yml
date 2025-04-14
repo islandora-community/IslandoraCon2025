@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "CFP"
-    url: /cfp/
   - title: "Registration"
     url: /registration/
   - title: "Sponsorship"
@@ -12,3 +10,5 @@ main:
  #   url: /travelaccommodations/
  # - title: "Outings & Sightseeing"
  #   url: /outings/
+ # - title: "CFP"
+ #   url: /cfp/
