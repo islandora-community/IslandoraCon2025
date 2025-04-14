@@ -12,5 +12,10 @@ header:
 
 ---
 
-## Sponsorship information coming soon.
-- Please contact [Emily Higgs](mailto:ehiggs1@swarthmore.edu:x) for more information.
+### If you would like to sponsor this year's virtual IslandoraCon, take a look at the tier levels below and contact [Emily Higgs](mailto:ehiggs1@swarthmore.edu:x) for more information
+- GOLD Level Sponsor - $1,500 (USD)
+  - 5 minute lightning talk slot on Day 1 of the conference
+  - Logo on all opening, closing and inter-session conference slides
+  - Prominently featured on IslandoraCon 2025 website
+- SILVER Level Sponsor - $500 (USD)
+  - Logo featured on IslandoraCon 2025 website
