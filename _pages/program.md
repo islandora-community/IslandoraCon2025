@@ -18,20 +18,20 @@ header:
 - Islandora Community
 - Analytics and Security
 
-| Title                                                                                                                          | Time            |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Plenary: Community Showcase (*Noah Smith & Aubrey Shanahan, IF*)                                                               | 9-9:50am PDT    |
-| Break                                                                                                                          | 9:50am-10am PDT |
-|&nbsp;&nbsp;&nbsp;* Islandora Community & Sponsorship Lightning Talks                                                                            | 10-10:45am PDT  |
-|&nbsp;&nbsp;&nbsp;* Islandora Documentation Interest Group (DIG) (*Yamil Suárez, Berklee College / Boston Conservatory*)                         |                 |
-|&nbsp;&nbsp;&nbsp;* Fedora Community Update (*Arran Griffith; Fedora*)                                                                           |                 |
-| Break                                                                                                                          | 10:45-11am PDT  |
-| Islandora Community Session                                                                                                    | 11-12pm PDT     |
-|&nbsp;&nbsp;&nbsp;* Islandora Workbench: Five Years In, Let’s Think About the Next Five (*Mark Jordan, Simon Fraser University Library*)         |                 |
-| Breakout groups                                                                                                                |12-12:45pm PDT|
-| Analytics and Security Session                                                                                                 |12:45-1:45pm PDT|
-|&nbsp;&nbsp;&nbsp;* Taming the Crawlers: Using Cloudflare to Manage Bots and Optimize Data Aggregation (*Don Richards, Johns Hopkins University)*||
-|&nbsp;&nbsp;&nbsp;* Making Islandora Observable *(Jonathan Hunt & Chris Burgess, Catalyst)*||
+| Title                                                                                                                                             | Time            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Plenary: Community Showcase (*Noah Smith & Aubrey Shanahan, IF*)                                                                                  | 9-9:50am PDT    |
+| Break                                                                                                                                             | 9:50am-10am PDT |
+| Islandora Community & Sponsorship Lightning Talks                                                                                                 | 10-10:45am PDT  |
+| &nbsp;&nbsp;&nbsp;* Islandora Documentation Interest Group (DIG) (*Yamil Suárez, Berklee College / Boston Conservatory*)                          |                 |
+| &nbsp;&nbsp;&nbsp;* Fedora Community Update (*Arran Griffith; Fedora*)                                                                            |                 |
+| Break                                                                                                                                             | 10:45-11am PDT  |
+| Islandora Community Session                                                                                                                       | 11-12pm PDT     |
+| &nbsp;&nbsp;&nbsp;* Islandora Workbench: Five Years In, Let’s Think About the Next Five (*Mark Jordan, Simon Fraser University Library*)          |                 |
+| Breakout groups                                                                                                                                   |12-12:45pm PDT|
+| Analytics and Security Session                                                                                                                    |12:45-1:45pm PDT|
+| &nbsp;&nbsp;&nbsp;* Taming the Crawlers: Using Cloudflare to Manage Bots and Optimize Data Aggregation (*Don Richards, Johns Hopkins University)* ||
+| &nbsp;&nbsp;&nbsp;* Making Islandora Observable *(Jonathan Hunt & Chris Burgess, Catalyst)*                                                       ||
 
 ### Day 2: Repository Managers — Tuesday, July 15
 - Plenary: Digital Repository Environment Survey
