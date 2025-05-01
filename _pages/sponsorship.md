@@ -17,5 +17,7 @@ header:
   - 5 minute lightning talk slot on Day 1 of the conference
   - Logo on all opening, closing and inter-session conference slides
   - Prominently featured on IslandoraCon 2025 website
+  - Two free registrations included
 - SILVER Level Sponsor - $500 (USD)
   - Logo featured on IslandoraCon 2025 website
+  - One free registration included
