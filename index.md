@@ -21,6 +21,18 @@ All of our events follow our [code of conduct](https://www.islandora.ca/code-of-
 
 All in on Islandora is our theme for this conference.
 
+## Thanks to Our Sponsors!
+
+### GOLD Level Sponsor
+
+![BD_logo_2.png](assets/images/BD_logo_2.png){:width="800px"}
+
+### SILVER Level Sponsors
+
+![UPEI logo](/assets/images/UPEI_logo.png){:width="400px"}
+
+![Library Host logo](/assets/images/LH_logo.png){:width="400px"}
+
 ### Conference Committee
 
 * Aubrey Shanahan (Islandora Community Manager)
