@@ -30,5 +30,7 @@ header:
 
 ![UPEI logo](/assets/images/UPEI_logo.png){:width="400px"}
 
+![Cherrry Hill logo](/assets/images/ch_logo_horiz_transp.png){:width="400px"}
+
 ![Library Host logo](/assets/images/LH_logo.png){:width="400px"}
 
