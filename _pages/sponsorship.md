@@ -22,9 +22,11 @@ header:
 
 ## Thanks to Our Sponsors!
 
-### GOLD Level Sponsor
+### GOLD Level Sponsors
 
 ![BD_logo_2.png](/assets/images/BD_logo_2.png){:width="800px"}
+
+![dg-logo-darkblue.png](/assets/images/dg-logo-darkblue.png){:width="620px"}
 
 ### SILVER Level Sponsors
 
