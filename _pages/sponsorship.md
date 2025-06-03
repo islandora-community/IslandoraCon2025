@@ -24,15 +24,15 @@ header:
 
 ### GOLD Level Sponsors
 
-![BD_logo_2.png](/assets/images/BD_logo_2.png){:width="800px"}
+[![BD_logo.png](/assets/images/BD_logo.png){:width="800px"}](https://www.born-digital.com)
 
-![dg-logo-darkblue.png](/assets/images/dg-logo-darkblue.png){:width="620px"}
+[![dg-logo-darkblue.png](/assets/images/dg-logo-darkblue.png){:width="800px"}](https://www.discoverygarden.com)
 
 ### SILVER Level Sponsors
 
-![UPEI logo](/assets/images/UPEI_logo.png){:width="400px"}
+[![UPEI logo](/assets/images/UPEI_logo.png){:width="400px"}](https://www.upei.ca)
 
-![Cherrry Hill logo](/assets/images/ch_logo_horiz_transp.png){:width="400px"}
+[![Cherrry Hill logo](/assets/images/ch_logo_horiz_transp.png){:width="400px"}](https://chillco.com)
 
-![Library Host logo](/assets/images/LH_logo.png){:width="400px"}
+[![Library Host logo](/assets/images/LH_logo.png){:width="400px"}](https://libraryhost.com)
 
