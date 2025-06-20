@@ -53,7 +53,7 @@ header:
 | &nbsp;&nbsp;&nbsp;* The Path They Take: Influencing and Understanding the Use of the Vassar College Digital Library	*(Nicole Scalessa, Vassar College)*                                                            ||
 | Break                                                                                                                                                                                                              |11:30-11:40am PDT|
 | Workshop/HackDoc                                                                                                                                                                                                   |11:40pm-2:15pm PDT|
-| &nbsp;&nbsp;&nbsp;* Islandora Views Workshop/HackDoc *(Amy Blau, Dara Virks, Derek Merleaux, Rosie Le Faive, Don Richards; Whitman College)*                                                                       ||
+| &nbsp;&nbsp;&nbsp;* Islandora Views Workshop/HackDoc *(Amy Blau, Dara Virks, Derek Merleaux, Rosie Le Faive, Don Richards, Annie Oelschlager; Whitman College)*                                                                       ||
 
 ### Day 3: Developers — Wednesday, July 16
 - Migrations
