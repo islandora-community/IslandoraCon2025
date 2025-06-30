@@ -55,7 +55,7 @@ header:
 | Workshop/HackDoc                                                                                                                                                                                                   |11:40pm-2:15pm PDT|
 | &nbsp;&nbsp;&nbsp;* Islandora Views Workshop/HackDoc *(Amy Blau, Dara Virks, Derek Merleaux, Rosie Le Faive, Don Richards, Annie Oelschlager; Whitman College)*                                                                       ||
 
-### Day 3: Developers — Wednesday, July 16
+### Day 3: Migrations & Architecture — Wednesday, July 16
 - Migrations
 - Integrations
 - Architecture
@@ -83,7 +83,7 @@ header:
 | Break                                                                                                                                                                                                          | 1pm-1:15pm PDT     |
 | Creating an Institutional Repository with Islandora *(Akanksha Singh, Discoverygarden Inc)*                                                                                                                    | 1:15pm-2pm PDT     |
 
-### Day 4: Hackathon — Thursday, July 17
+### Day 4: Annual General Meetin and Hackdoc — Thursday, July 17
 
-- Plenary: Islandora Annual General Meeting
-- Documentation Sprint
+- Plenary: Islandora Annual General Meeting (8am PDT - 9:50am PDT)
+- Hackdoc (10am - 2pm PDT; may extend as needed)
