@@ -33,7 +33,8 @@ header:
 * Rosie Le Faive, University of Prince Edward Island
 * Courtney Earl Matthews,	University of Prince Edward Island
 * Derek Merleax, Born-Digital
-* Alexander O’Neil
+* Annie Oelschlager, Whitman College
+* Alexander O’Neill
 * Katherine Peterson, University of Iowa Libraries
 * Don Richards, Johns Hopkins University
 * Nicole Scalessa, Vassar College

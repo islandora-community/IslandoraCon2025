@@ -13,5 +13,5 @@ header:
 ---
 ## Conference Program Day 4: Hackathon — Thursday, July 17
 
-- Plenary: Islandora Annual General Meeting
-- Documentation Sprint
+- Plenary: Islandora Annual General Meeting (8am PDT - 9:50am PDT)
+- Documentation Sprint (10am - 2pm PDT; may extend as needed)
