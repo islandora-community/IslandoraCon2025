@@ -13,7 +13,7 @@ header:
 ---
 ## Conference Program
 
-### [Day 1: Community — Monday, July 14](day1)
+### Day 1: Community — Monday, July 14
 - Plenary: Introduction and Community Showcase
 - Islandora Community
 - Analytics and Security
@@ -33,7 +33,7 @@ header:
 | &nbsp;&nbsp;&nbsp;* Taming the Crawlers: Using Cloudflare to Manage Bots and Optimize Data Aggregation (*Don Richards, Johns Hopkins University)* ||
 | &nbsp;&nbsp;&nbsp;* Making Islandora Observable *(Jonathan Hunt & Chris Burgess, Catalyst)*                                                       ||
 
-### [Day 2: Repository Managers — Tuesday, July 15](day2)
+### Day 2: Repository Managers — Tuesday, July 15
 - Plenary: Digital Repository Environment Survey
 - User Engagement/Collections Management
 - User Testing/Usability
@@ -53,9 +53,9 @@ header:
 | &nbsp;&nbsp;&nbsp;* The Path They Take: Influencing and Understanding the Use of the Vassar College Digital Library	*(Nicole Scalessa, Vassar College)*                                                            ||
 | Break                                                                                                                                                                                                              |11:30-11:40am PDT|
 | Workshop/HackDoc                                                                                                                                                                                                   |11:40pm-2:15pm PDT|
-| &nbsp;&nbsp;&nbsp;* Islandora Views Workshop/HackDoc *(Amy Blau, Dara Virks, Derek Merleaux, Rosie Le Faive, Don Richards; Whitman College)*                                                                       ||
+| &nbsp;&nbsp;&nbsp;* Islandora Views Workshop/HackDoc *(Amy Blau, Dara Virks, Derek Merleaux, Rosie Le Faive, Don Richards, Annie Oelschlager; Whitman College)*                                                                       ||
 
-### [Day 3: Developers — Wednesday, July 16](day3)
+### Day 3: Migrations & Architecture — Wednesday, July 16
 - Migrations
 - Integrations
 - Architecture
@@ -83,7 +83,7 @@ header:
 | Break                                                                                                                                                                                                          | 1pm-1:15pm PDT     |
 | Creating an Institutional Repository with Islandora *(Akanksha Singh, Discoverygarden Inc)*                                                                                                                    | 1:15pm-2pm PDT     |
 
-### [Day 4: Hackathon — Thursday, July 17](day4)
+### Day 4: Annual General Meetin and Hackdoc — Thursday, July 17
 
-- Plenary: Islandora Annual General Meeting
-- Documentation Sprint
+- Plenary: Islandora Annual General Meeting (8am PDT - 9:50am PDT)
+- Hackdoc (10am - 2pm PDT; may extend as needed)
