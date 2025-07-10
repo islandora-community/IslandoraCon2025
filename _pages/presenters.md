@@ -19,11 +19,11 @@ header:
 * Amy Blau
 * ![](/assets/images/presenters/bolam.jpg) Michael Bolam, University of Pittsburgh
 * ![](/assets/images/presenters/Bocanegra.jpg) Sabrina Bocanegra, American Philosophical Society
-* Chris Burgess, Catalyst
+* Chris Burgess, Catalyst 
 * ![](/assets/images/presenters/cash.jpg) Meaghan Cash, University of Pittsburgh
 * Joe Corall, Lehigh University
 * ![](/assets/images/presenters/rebel.jpg) Rebel Cummings-Sauls, Florida Virtual Campus
-* Brian Gregg, University of Pittsburgh
+* ![](/assets/images/presenters/gregg.png)Brian Gregg, University of Pittsburgh
 * Arran Griffith; Fedora
 * Martin Halbert,	University of North Carolina Greensboro
 * Jonathan Hunt, Catalyst
@@ -38,14 +38,14 @@ header:
 * Katherine Peterson, University of Iowa Libraries
 * ![](/assets/images/presenters/richards.jpg) Don Richards, Johns Hopkins University
 * Nicole Scalessa, Vassar College
-* Aubrey Shanahan, IF
+* Aubrey Shanahan, Islandora Foundation
 * ![](/assets/images/presenters/sshaw.jpg) Seth Shaw, Arizona State University Libraries
 * Akanksha Singh, Discoverygarden Inc
 * Noah Smith, Born Digital
 * Yamil Suárez, Berklee College / Boston Conservatory
 * ![](/assets/images/presenters/szanati.jpg) Stephen Szanati, Florida Virtual Campus
 * Luke Taylor, Discoverygarden Inc
-* Dara Virks
+* Dara Virks, Born-Digital
 * ![](/assets/images/presenters/ward.jpg) Kestrel Ward, Florida Virtual Campus
 * ![](/assets/images/presenters/zhang.jpg) Ruiling Zhang, University of Pittsburgh
 
