@@ -25,6 +25,7 @@ header:
 | Islandora Community & Sponsorship Lightning Talks                                                                                                 | 10-10:45am PDT  |
 | &nbsp;&nbsp;&nbsp;* Islandora Documentation Interest Group (DIG) (*Yamil Suárez, Berklee College / Boston Conservatory*)                          |                 |
 | &nbsp;&nbsp;&nbsp;* Fedora Community Update (*Arran Griffith; Fedora*)                                                                            |                 |
+| &nbsp;&nbsp;&nbsp;* Introducing Aurora (*Noah Smith; Born Digital*)                                                                               |                 |
 | Break                                                                                                                                             | 10:45-11am PDT  |
 | Islandora Community Session                                                                                                                       | 11-12pm PDT     |
 | &nbsp;&nbsp;&nbsp;* Islandora Workbench: Five Years In, Let’s Think About the Next Five (*Mark Jordan, Simon Fraser University Library*)          |                 |
