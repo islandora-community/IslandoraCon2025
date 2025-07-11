@@ -47,7 +47,7 @@ All in on Islandora is our theme for this conference.
 * Angelina Crowe (Carnegie Mellon University)
 * Emily Higgs (Swarthmore College)
 * Sarah Jones (UNLV)
-* Tammy Kim (UNLV).
+* Tammi Kim (UNLV).
 * Manish Kumar (UNLV)
 
 You can see information on our previous conference IslandoraCon 2023, at the [archived conference website](https://2023.islandora.ca/).
