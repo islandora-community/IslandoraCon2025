@@ -13,7 +13,9 @@ header:
 
 ## IslandoraCon 2025 and the Islandora DrupalCamp
 
-IslandoraCon 2025 will take place July 14-17, 2025 online.
+IslandoraCon 2025 took place online on July 14-17, 2025.
+
+Conference videos are in post-production and will be made available to conference attendees shortly. The will be publicly released at a later date.
 
 All of our events follow our [code of conduct](https://www.islandora.ca/code-of-conduct).
 
@@ -43,7 +45,7 @@ All in on Islandora is our theme for this conference.
 * Cory Lampert (UNLV)
 * Cary Gordon (Cherry Hill Company)
 * Amy Blau (Whitman College)
-* Natalie Baur (University of Iowa)
+* Natalie Baur (University of Iowa)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxs
 * Angelina Crowe (Carnegie Mellon University)
 * Emily Higgs (Swarthmore College)
 * Sarah Jones (UNLV)
