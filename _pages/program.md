@@ -25,6 +25,8 @@ header:
 | Islandora Community & Sponsorship Lightning Talks                                                                                                 | 10-10:45am PDT  |
 | &nbsp;&nbsp;&nbsp;* Islandora Documentation Interest Group (DIG) (*Yamil Suárez, Berklee College / Boston Conservatory*)                          |                 |
 | &nbsp;&nbsp;&nbsp;* Fedora Community Update (*Arran Griffith; Fedora*)                                                                            |                 |
+| &nbsp;&nbsp;&nbsp;* Introducing Aurora (*Noah Smith; Born Digital*)                                                                               |                 |
+| &nbsp;&nbsp;&nbsp;* DiscoveryGarden Update (*Jonny Stevens; Discoverygarden Inc*)                                                                 |                 |
 | Break                                                                                                                                             | 10:45-11am PDT  |
 | Islandora Community Session                                                                                                                       | 11-12pm PDT     |
 | &nbsp;&nbsp;&nbsp;* Islandora Workbench: Five Years In, Let’s Think About the Next Five (*Mark Jordan, Simon Fraser University Library*)          |                 |
@@ -67,7 +69,7 @@ header:
 | &nbsp;&nbsp;&nbsp;* Migrating Metadata to Modern Islandora: Challenges, Strategies, and Lessons Learned *(Michael Bolam, Tyrica Terry Kapral, Meaghan Cash; University of Pittsburgh)*                         |                    |
 | &nbsp;&nbsp;&nbsp;* Bringing the University of Iowa Libraries into Islandora Modern: Challenges and Opportunities	*(Natalie Baur, Katherine Peterson, University of Iowa Libraries)*                           |                    |
 | Break                                                                                                                                                                                                          | 9am-9:10am PDT     |
-| Migration Session 29:10-10:15am PDT                                                                                                                                                                            |
+| Migration Session 2 9:10-10:15am PDT                                                                                                                                                                            |
 | &nbsp;&nbsp;&nbsp;* Islandora Upgrade at UPEI’s Robertson Library *(Courtney Earl Matthews,	University of Prince Edward Island)*                                                                               |                    |
 | &nbsp;&nbsp;&nbsp;* A Tale of Migration: Florida Virtual Campus’ (FLVC) Path to Islandora 2.0 *(Rebel Cummings-Sauls, Elisabeth Ball, Kestrel Ward, Simonne Jackson, Stephen Szanati, Florida Virtual Campus)* |                    |
 | Break                                                                                                                                                                                                          | 10:15am-10:30m PDT |
