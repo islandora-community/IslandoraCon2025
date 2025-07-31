@@ -13,7 +13,7 @@ header:
 
 ## IslandoraCon 2025 
 
-IslandoraCon 2025 took place online on July 14-17, 2025.
+IslandoraCon 2025 took place online on July 14-17, 2025 with a record 124 attendees.
 
 Conference videos are in post-production and will be made available to conference attendees shortly. The will be publicly released at a later date.
 
